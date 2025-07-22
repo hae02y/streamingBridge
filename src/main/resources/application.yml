@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: demo
+  web:
+    resources:
+      static-locations: file:/tmp/hls/
